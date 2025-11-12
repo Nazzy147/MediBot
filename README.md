@@ -166,12 +166,11 @@ You can start chatting immediately by describing your symptoms.
 ### 🔹 UI Preview
 
 > <img width="891" height="608" alt="image" src="https://github.com/user-attachments/assets/a042e4f3-1b10-4b2d-b15b-2ba8bec7ae2b" />
-
-> Example placeholder:
-
-```
-/assets/medibot_ui.png
-```
+> <img width="886" height="602" alt="image" src="https://github.com/user-attachments/assets/dfaeaee4-3504-422c-8aeb-705d36a35ad5" />
+> <img width="888" height="654" alt="image" src="https://github.com/user-attachments/assets/81b0d664-e6fb-4d03-913e-353a7be5d136" />
+> <img width="882" height="648" alt="image" src="https://github.com/user-attachments/assets/cfdb85a7-0ad2-472c-84d2-760ebea6dd7d" />
+> <img width="940" height="635" alt="image" src="https://github.com/user-attachments/assets/639e940c-dad9-4457-8b56-ed707ccbc7bd" />
+> <img width="940" height="643" alt="image" src="https://github.com/user-attachments/assets/4df69f64-bb84-4065-b2f8-84c5fa3a1b56" />
 
 ---
 
@@ -191,9 +190,13 @@ MediBot: Likely mild. Stay hydrated, rest, and monitor symptoms.
 
 ## 🔄 Stopping the App
 
-Press `CTRL + C` in terminal.
+```
+Press `CTRL + C` in terminal
+```
 OR
+```
 Just say "Bye" to the chatbot
+```
 
 ---
 
