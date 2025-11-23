@@ -121,9 +121,9 @@ Triggers **High-Risk Mode** that advises immediate medical care.
 | Deep Learning    | TensorFlow, Keras   |
 | Data             | Pandas, NumPy       |
 | Visualization    | Matplotlib, Seaborn |
-| Deployment       | Hugging Face Spaces |
-| Model Saving     | Pickle / Joblib     |
-| Optional Backend | Flask / Streamlit   |
+| Deployment       | Hugging Face        |
+| Model Saving     | Hugging Face Spaces |
+| Optional Backend | Gradio/Streamlit    |
 
 ---
 
